@@ -1,0 +1,1 @@
+This notebook demonstrates the use of an LSTM (Long Short-Term Memory) model to predict Bitcoin prices. It includes data preprocessing, feature engineering, model training, and evaluation. The goal is to analyze historical Bitcoin price data and forecast future trends using deep learning techniques.
